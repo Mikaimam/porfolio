@@ -1,0 +1,190 @@
+body {  background: rgb(255, 151, 151);
+        margin: 0;
+        font-family: 'Courier New', Courier,;
+        font-size: 14pt;
+        font-weight:normal;
+}
+.container {
+        background: blanchedalmond;
+        height: 60px;
+        border: 2px black solid;
+        justify-content: space-between;
+        align-items: center;
+}
+.hero {
+        background: beige;
+}
+
+.logo {
+        font-size: x-large;
+        font-weight: bold;
+        margin-left: 20px; ;
+}
+
+.navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+.navbar1 {
+        display: flex;
+        list-style: none;
+        margin: 10px;
+        font-weight: bold;
+        font-size: x-large;
+}
+a {
+        color:black;
+        text-decoration: none;
+
+}
+a:hover { color:aqua
+}
+.hero {
+        background: beige;
+}
+.ab {
+        font-size: 40px;
+}
+.h1 .i {
+        text-decoration: underline;
+}
+hr {
+        margin: 0%;
+}
+
+.cloud1 {
+        margin: 0 0 0 650px;
+}
+
+h1  {
+        text-align: center;
+        text-size-adjust: xx-large;
+        
+}
+p {
+        text-align: center;
+        justify-content: space-evenly;
+        align-items: center;
+}
+.mount {
+        margin: 0 0 0 250px;
+}
+
+.cloud2 {
+        margin-top: 100px;
+        margin-left: 150px;
+}
+
+.body {
+        background: bisque;
+}
+.mypic {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin-left: 450px;
+        margin-top: 20px;
+
+}
+
+
+h2 {
+        align-items: center;
+        color:brown;
+}
+.he {   border-radius: 50%;
+        margin: 20px;
+        padding: 2px;
+        text-decoration:dotted;
+        width: 130px;
+        margin-left: 450px;
+}
+
+.autocad { margin: 0px;
+        width: 150px;
+        height: 150px;
+        float: left;
+}
+
+.web {  margin: 0px;
+        width: 150px;
+        height: 150px;
+        float: right;
+        text-align: center;
+}
+.food {
+        width: 150px;
+        height: 100px;
+        float: left;
+        margin-top: 40px;
+}
+.body1 {
+        /* background: bisque; */
+        margin: 0px;
+}
+.foot {
+        text-align: center;
+        margin: 0px;
+}
+
+.button {
+        align-items: center;
+        border-radius: 20px;
+        margin-left: 450px;
+        border-radius: black 3px solid;
+        height: 50px;
+}
+h2 {
+        text-align: center;
+}
+#ate {
+        /* text-align: center; */
+        margin-left: 200px;
+}
+.web3 {
+        text-align: center;
+        margin-left: 205px;
+}
+
+.section4 {
+        margin-top: 80px;
+}
+
+.you {
+        margin-left: 0px;
+        margin-right: 150px;
+}
+.foot {
+        background: blanchedalmond;
+        border: 2px black solid;
+}
+@media{ (max-width: 600px)
+        {
+              display: block
+              text-align : center
+      }      }
+      /* .section4 {
+        display: block;
+        text-align: center;
+      }  */
+      .section3 {
+        display: block;
+        text-align: center;
+      } 
+      .section_two {
+        display: block;
+        text-align: center;
+      } 
+      
+      .section_one {
+        display: block;
+        text-align: center;
+      } 
+      .nav {
+        display: block;
+        text-align: center;
+      } 
+      
+      
+      
